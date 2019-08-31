@@ -26,3 +26,7 @@ We are [HERE](https://discord.gg/yhJRg7D). Join us!
 
 ## Official Contacts
 Also, we've email **cups@corp.mail.ru**. If you have any private questions, you can ask us. We always check our inbox and reply to all.
+
+
+# glitchrain's fork purpose
+I just want to use this as a competitive game with friends. :)
