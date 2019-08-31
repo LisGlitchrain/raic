@@ -30,3 +30,12 @@ Also, we've email **cups@corp.mail.ru**. If you have any private questions, you 
 
 # glitchrain's fork purpose
 I just want to use this as a competitive game with friends. :)
+
+## Strategy limitations:
+
+- it is prohibited to interact with the network, file system and other resources, except for RAM and the current directory, violators will be disqualified;
+- total CPU time of your strategy process is limited (exact details you can find in the documentation);
+- the strategy process should not use more than 256 MB of RAM;
+- if your strategy exceeds the time or memory limit or crashes during the execution, it stops to participate in this game (however, your score points do not expire);
+- the strategy of each participant runs in a separate process.
+
